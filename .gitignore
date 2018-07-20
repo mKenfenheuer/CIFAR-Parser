@@ -328,3 +328,14 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+
+#CIFAR Binary files
+*.bin
+
+#Extracted images
+*.bmp
+*.img
+*.jpg
+*.jpeg
+*.png
+
